@@ -7,7 +7,9 @@
 * "enable:switch_ignored" "-w" "enable:missing_lib_sentinel" "-w" "enable:demo_license"
 * "-v"
 * "class{Fminimax:E:\Work\曝光机\software\MALAB对位软件\MATLAB\minimax.m,E:\Work\曝光机\so
-* ftware\MALAB对位软件\MATLAB\TanSlopeConstantMinMaxDistObjectFun2.m}" 
+* ftware\MALAB对位软件\MATLAB\TanSlopeConstantMinMaxDistObjectFun2.m}"
+
+* test something 
 */
 using System;
 using System.Reflection;
