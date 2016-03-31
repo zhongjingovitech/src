@@ -8,7 +8,7 @@
 * "-v"
 * "class{Fminimax:E:\Work\曝光机\software\MALAB对位软件\MATLAB\minimax.m,E:\Work\曝光机\so
 * ftware\MALAB对位软件\MATLAB\TanSlopeConstantMinMaxDistObjectFun2.m}" 
-*/
+*/branch1 added
 using System;
 using System.Reflection;
 using System.IO;
