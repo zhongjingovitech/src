@@ -10,7 +10,7 @@
 * ftware\MALAB¶ÔÎ»Èí¼þ\MATLAB\TanSlopeConstantMinMaxDistObjectFun2.m}"
 
 * test something 
-*/
+*/test 2some
 using System;
 using System.Reflection;
 using System.IO;
